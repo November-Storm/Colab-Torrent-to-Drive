@@ -1,6 +1,6 @@
 # Colab-Torrent-to-Drive
 
-Originally by [FKLC](https://github.com/FKLC/Torrent-To-Google-Drive-Downloader) this is a simple notebook to stream torrent files to Google Drive using Google Colab. I modified the first cell so it won't return with a dependency fail. 
+Originally by [FKLC](https://github.com/FKLC/Torrent-To-Google-Drive-Downloader), this is a simple notebook to stream torrent files directly to Google Drive using Google Colab. You can either use `.torrent` file or `:magnet` links. I merely modified the first cell [by adding these two lines](https://stackoverflow.com/a/66365826) so it won't return with a dependency fail. 
 
 This is purely for educational purpose. 
 
